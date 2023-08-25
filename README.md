@@ -22,3 +22,6 @@ MARRIARY
 
 
 ### 8월 30일까지 메인 페이지 구현 ###
+
+# UI 참고 : https://www.youtube.com/watch?v=cngeIxH3iLE
+# UI 참고 : https://www.behance.net/gallery/59120015/Card-Diary-iOS-App
