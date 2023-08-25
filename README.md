@@ -1,4 +1,4 @@
-MARRIARY
+## MARRIARY
 
 ### 구현 목표 ###
 
@@ -21,7 +21,7 @@ MARRIARY
 - 9/7일까지 완성 목표
 
 
-### 8월 30일까지 메인 페이지 구현 ###
+## 8월 30일까지 메인 페이지 구현 ###
 
-# UI 참고 : https://www.youtube.com/watch?v=cngeIxH3iLE
-# UI 참고 : https://www.behance.net/gallery/59120015/Card-Diary-iOS-App
+### UI 참고 : https://www.youtube.com/watch?v=cngeIxH3iLE
+### UI 참고 : https://www.behance.net/gallery/59120015/Card-Diary-iOS-App
